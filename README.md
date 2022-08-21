@@ -10,6 +10,8 @@
 
 🟨 **UPDATE:** Now there is no need to save the set of shapes if it was read from a file! 
 
+# Details
+
 | **I have used:** |**I have implemented:**|
 |------------------|-----------------------|
 | *Java SE*|*OOP*  |  *Exception Handling* |
