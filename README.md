@@ -1,4 +1,4 @@
-# paint_project 🎨 
+# About
 
 🟥 This desktop application lets the user generate a selected number of random shapes.
 
@@ -16,5 +16,8 @@
 |  *Swing & AWT*   |     *Collections*     |
 |                  |       *File I/O*      |
 |                  |        *Threads*      |
+
+
+# Video Demonstration
 
 https://user-images.githubusercontent.com/87364506/184124431-39558c09-a1f3-4192-bc76-388da426cc5a.MP4
