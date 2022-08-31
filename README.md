@@ -1,6 +1,6 @@
 # About
 
-🟥 This desktop application lets the user generate a selected number of random shapes.
+🟥 A desktop application that lets the user generate a selected number of random shapes.
 
 🟦 The user can save/load the current set of shapes for durability. Anytime later, they can open the existing set to generate shapes (the same shape with randomly selected characteristics).
 
