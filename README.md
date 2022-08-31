@@ -1,4 +1,4 @@
-# Paint_Project 🎨 
+# paint_project 🎨 
 
 🟥 This desktop application lets the user generate a selected number of random shapes.
 
