@@ -8,8 +8,6 @@
 
 🟪 When exiting, the application warns the user if there is unsaved work and exits only if they approve. 
 
-🟨 **UPDATE:** Now there is no need to save the set of shapes if it was read from a file! 
-
 # Details
 
 | **I have used:** |**I have implemented:**|
