@@ -12,15 +12,17 @@
 🟪 When exiting, the application warns the user if there is unsaved work and exits only if they approve. 
 ```
 
-# Details
+# What I have used
 
-| **I have used:** |**I have implemented:**|
-|------------------|-----------------------|
-| *Java SE*|*OOP*  |  *Exception Handling* |
-|  *Swing & AWT*   |     *Collections*     |
-|                  |       *File I/O*      |
-|                  |        *Threads*      |
+```
+Java SE, Java Swing & AWT
+```
 
+# What I have implemented
+
+```
+OOP, Exception Handling, Collections, File I/O, Threads
+```
 
 # Video Demonstration
 
