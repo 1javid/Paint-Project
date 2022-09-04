@@ -3,11 +3,11 @@
 ```
 🟥 A desktop application that lets the user generate a selected number of random shapes.
 
-🟦 The user can save/load the current set of shapes for durability. Anytime later, they can open the existing set
-   to generate shapes (the same shape with randomly selected characteristics).
+🟦 The user can save/load the current set of shapes for durability. Anytime later, they can open the 
+    existing set to generate shapes (the same shape with randomly selected characteristics).
 
-🟩 When saving, the application warns the user if the file exists - if they approve, a set of shapes will be saved 
-   to the existing file.
+🟩 When saving, the application warns the user if the file exists - if they approve, a set of shapes will be 
+   saved to the existing file.
 
 🟪 When exiting, the application warns the user if there is unsaved work and exits only if they approve. 
 ```
@@ -21,7 +21,7 @@ Java SE, Java Swing & AWT
 # What I have implemented
 
 ```
-OOP, Exception Handling, Collections, File I/O, Threads
+OOP, Factory Design Pattern, Exception Handling, Collections, File I/O, Threads
 ```
 
 # Video Demonstration
