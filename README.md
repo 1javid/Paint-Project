@@ -6,8 +6,8 @@
 🟦 The user can save/load the current set of shapes for durability. Anytime later, they can open the 
     existing set to generate shapes (the same shape with randomly selected characteristics).
 
-🟩 When saving, the application warns the user if the file exists - if they approve, a set of shapes will be 
-   saved to the existing file.
+🟩 When saving, the application warns the user if the file exists - if they approve, a set of shapes will 
+   be saved to the existing file.
 
 🟪 When exiting, the application warns the user if there is unsaved work and exits only if they approve. 
 ```
